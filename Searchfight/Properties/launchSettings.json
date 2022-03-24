@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Searchfight": {
+      "commandName": "Project",
+      "commandLineArgs": ".net java",
+      "environmentVariables": {
+        "BING_SEARCH_V7_SUBSCRIPTION_KEY": "631f08cabb364083bb8b127976503d0b",
+        "BING_SEARCH_V7_ENDPOINT": "https://api.bing.microsoft.com/v7.0/search",
+        "GOOGLE_SEARCH_ENGINE_ID": "1782c8fe3dcac0ef3",
+        "GOOGLE_SEARCH_API_ENDPOINT": "https://customsearch.googleapis.com/customsearch/v1",
+        "GOOGLE_SEARCH_API_KEY": "AIzaSyA6j3SVfXjpXR8D1EVh50ibY8G-68JzfDU"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.exe
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.deps.json
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.runtimeconfig.json
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.dll
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\ref\Searchfight.dll
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Searchfight.pdb
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.dll
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\ref\Searchfight.dll
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.pdb
+C:\Users\Lenovo\Documents\Tranzact\ConsoleApp\Searchfight\Searchfight\obj\Debug\net5.0\Searchfight.genruntimeconfig.cache
